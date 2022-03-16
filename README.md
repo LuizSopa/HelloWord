@@ -2,15 +2,16 @@
 Tentarr De Novo
 
 <h1> Montagem de ambiente </h1>
-Criei usuario e repositorio 
+<p>Criei usuario e repositorio</p>
 https://github.com/Felippeblu/Hello-Wolrd
 
-Donwload git
+<p>Donwload git</p>
 https://git-scm.com/downloads
 
-Criamos uma pasta Gitrepo dentro da pasta documents do meu usuario
+<p>Criamos uma pasta Gitrepo dentro da pasta documents do meu usuario</p>
 
-/c/Users/felip/Documents/gitrepo/Hello-Wolrd
+ /c/Users/Luiz Fernando/Documents/gitrepo/HelloWord
+
 
 <br/>
 <h1> Terminal Commands </h1> 
@@ -21,6 +22,7 @@ Criamos uma pasta Gitrepo dentro da pasta documents do meu usuario
         <li>mkdir - make directoy</li>
         <li>../ - dir anterior</li>
         <li>cd - ir para dir </li>
+        <li></li>
     </ul>
 <br/>
 <h1> Git Commands</h1>
